@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Response>
  <Say />
- <Pause length="1800"/>
+ <Pause length="120"/>
 </Response>
