@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="en-GB">Hello Mark. I hope you like this.
+  </Say>
+  <Pause length="1"/>
+  <Play>http://www.richmolnar.com/Sounds/Wiggum%20-%20912.wav</Play>
+  <Play>https://denver.github.io/voice/simpsons/homer_easytoblameapu.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Homer%20-%20Mmmm,%20beer.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Homer%20-%20Mmmm,%20forbidden%20donut.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Annoying%20radio%20ads.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Dr.%20Nick%20-%20Brain%20damage.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Ned%20-%20I%20can%20see%20your%20doodle.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Ralph%20-%20Mittens.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Burns%20-%20Release%20the%20hounds.wav</Play>
+  <Play>http://www.richmolnar.com/Sounds/Dr.%20Nick%20-%20Bye%20everybody.wav</Play>
+  <Pause length="3600"/>
+</Response>
