@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="en-GB">Welcome to Loop Up.
+  </Say>
+  <Pause length="1"/>
+  <Say voice="alice" language="en-US">Welcome to Loop Up.
+  </Say>
+  <Say voice="man" loop="10">Welcome to Loop Up.
+  </Say>
+  <Say voice="man">I'm going to go to sleep for an hour then hangup so do your thang buddy.</Say>
+  <Pause length="3600"/>
+</Response>
